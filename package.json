@@ -21,6 +21,7 @@
     "express": "latest",
     "express-session": "latest",
     "express-validator": "latest",
+    "foobar": "^1.1.0",
     "lodash": "latest",
     "lusca": "latest",
     "method-override": "latest",
