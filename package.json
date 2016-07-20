@@ -44,7 +44,7 @@
     "winston-mongodb": "latest"
   },
   "engines": {
-    "node": "latest"
+    "node": "4.4.6"
   },
   "devDependencies": {
     "chai": "latest",
