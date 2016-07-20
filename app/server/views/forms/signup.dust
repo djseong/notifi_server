@@ -1,0 +1,36 @@
+<form id="signup" name="signup" class="form-s" method="post" action="/signup">
+  <div class="input-row">
+    <div class="input-data">
+      <input type="text" placeholder="First name" name="name_first" id="name_first" />
+    </div>
+  </div>
+  <div class="input-row">
+    <div class="input-data">
+      <input type="text" placeholder="Last name" name="name_last" id="name_last"/>
+    </div>
+  </div>
+  <div class="input-row">
+    <div class="input-data">
+      <input type="text" placeholder="Email" name="email" id="email"/>
+    </div>
+  </div>
+  <div class="input-row">
+    <div class="input-row">
+      <input type="password" placeholder="Password" name="password" id="password"/>
+    </div>
+  </div>
+  <div class="input-row">
+    <div class="input-row">
+      <input type="password" placeholder="Confirm Password" name="passwordv" id="password"/>
+    </div>
+  </div>
+  <div class="input-row">
+      <button type="submit" class="btn btn-default">
+        Create
+      </button>
+  </div>
+</form>
+
+
+
+
