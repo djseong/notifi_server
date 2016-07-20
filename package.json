@@ -22,7 +22,6 @@
     "express-session": "latest",
     "express-validator": "latest",
     "foobar": "^1.1.0",
-    "grunt": "latest",
     "lodash": "latest",
     "lusca": "latest",
     "method-override": "latest",
